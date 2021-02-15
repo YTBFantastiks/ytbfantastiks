@@ -699,4 +699,4 @@ async def clear(ctx, nombre : int):
    await ctx.send(f"**Les messages on bien été supprimés !**")
 
 
-bot.run("NzgxMjE3MTU0Mzg1MDUxNjQ4.X76bKw.AQGZBVqdWM-yJVQJI-Ok5N3-gmQ")
+bot.run("TOKENN")
